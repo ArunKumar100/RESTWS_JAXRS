@@ -1,0 +1,2 @@
+# RESTWS_JAXRS
+Sample REST JAXRS project
